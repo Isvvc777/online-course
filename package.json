@@ -30,7 +30,7 @@
     "framer-motion": "^12.4.10",
     "graphql-request": "^6.1.0",
     "html2canvas": "^1.4.1",
-    "jspdf": "^3.0.2",
+    "jspdf": "^4.2.1",
     "lucide-react": "^0.364.0",
     "motion": "^11.18.2",
     "next": "16.4.3",
